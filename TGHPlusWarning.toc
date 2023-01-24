@@ -1,0 +1,13 @@
+## Interface: 30401
+## Title: TGHPlusWarning
+## Author: Empirical
+## Version: 1.0a1
+## DefaultState: enabled
+## Notes: Thor's Godly unit frames
+## URL: 
+## Dependencies: TGEventManager TGUnit
+## SavedVariables:
+
+TGHPlusWarning.xml
+
+TGHPlusWarning.lua
